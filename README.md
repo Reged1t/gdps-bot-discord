@@ -7,4 +7,4 @@ python version 3
 PyMySQL (pip3 install pymysql3)
 discord.py (pip3 install discord.py)
 
-Soon i release first version
+Soon i release first version, ye...
